@@ -1,0 +1,12 @@
+{
+    "name": "dhea/medanmart",
+    "authors": [
+        {
+            "name": "Dheatrilova",
+            "email": "dheatrilova457@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
